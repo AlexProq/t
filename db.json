@@ -2,7 +2,7 @@
   "users": [
     { "id": 1, "username" : "username1", "firstname" : "firstname1", "lastname" : "lastname1", "email" : "email1@mail.com", "address" : "address1", "country" : "country1" },
     { "id": 2, "username" : "username2", "firstname" : "firstname2", "lastname" : "lastname2", "email" : "email2@mail.com", "address" : "address2", "country" : "country2" },
-    { "id": 3, "username" : "username3", "firstname" : "firstname3", "lastname" : "lastname3", "email" : "email3@mail.com", "address" : "address3", "country" : "country3" },
+    { "id": 3, "username" : "username3", "firstname" : "firstname3", "lastname" : "lastname3", "email" : "email3@mail.com", "address" : "address3", "country" : "country3" }
   ],
   "companies": [
     { "id": 1, "userid" : 1, "company" : "company name1 user1", "description" : "des1" },

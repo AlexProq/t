@@ -30,11 +30,17 @@
 	"companies": [{
 			"id": 1,
 			"userid": 1,
-			"company": "company name1 user1",
+			"company": "company name user1",
 			"description": "des1"
 		},
 		{
 			"id": 2,
+			"userid": 2,
+			"company": "company name1 user2",
+			"description": "des2"
+		},
+		{
+			"id": 3,
 			"userid": 2,
 			"company": "company name2 user2",
 			"description": "des2"

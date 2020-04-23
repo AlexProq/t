@@ -5,7 +5,9 @@
 			"firstname": "firstname1",
 			"lastname": "lastname1",
 			"email": "email1@mail.com",
-			"address": "address1",
+			"street": "address1",
+			"city": "city1",
+			"zipcode": "zipcode1",
 			"country": "country1"
 		},
 		{
@@ -14,7 +16,9 @@
 			"firstname": "firstname2",
 			"lastname": "lastname2",
 			"email": "email2@mail.com",
-			"address": "address2",
+			"street": "address2",
+			"city": "city2",
+			"zipcode": "zipcode2",
 			"country": "country2"
 		},
 		{
@@ -23,7 +27,9 @@
 			"firstname": "firstname3",
 			"lastname": "lastname3",
 			"email": "email3@mail.com",
-			"address": "address3",
+			"street": "address3",
+			"city": "city3",
+			"zipcode": "zipcode3",
 			"country": "country3"
 		}
 	],

@@ -5,10 +5,6 @@
 			"firstname": "firstname1",
 			"lastname": "lastname1",
 			"email": "email1@mail.com",
-			"street": "address1",
-			"city": "city1",
-			"zipcode": "zipcode1",
-			"country": "country1"
 		},
 		{
 			"id": 2,
@@ -16,10 +12,6 @@
 			"firstname": "firstname2",
 			"lastname": "lastname2",
 			"email": "email2@mail.com",
-			"street": "address2",
-			"city": "city2",
-			"zipcode": "zipcode2",
-			"country": "country2"
 		},
 		{
 			"id": 3,
@@ -27,10 +19,6 @@
 			"firstname": "firstname3",
 			"lastname": "lastname3",
 			"email": "email3@mail.com",
-			"street": "address3",
-			"city": "city3",
-			"zipcode": "zipcode3",
-			"country": "country3"
 		}
 	],
 	"companies": [{
@@ -51,5 +39,39 @@
 			"company": "company name2 user2",
 			"description": "des2"
 		}
+	],
+	"addresses":[{
+			"id": 1,
+			"userid": 1,
+			"street": "address1 user1",
+			"city": "city1 user1",
+			"zipcode": "zipcode1 user1",
+			"country": "country1 user1"
+		},
+		{
+			"id": 2,
+			"userid": 1,
+			"street": "address2 user1",
+			"city": "city2 user1",
+			"zipcode": "zipcode2 user1",
+			"country": "country2 user1"
+		},
+		{
+			"id": 3,
+			"userid": 2,
+			"street": "address1 user2",
+			"city": "city1 user2",
+			"zipcode": "zipcode1 user2",
+			"country": "country1 user2"
+		},
+		{
+			"id": 4,
+			"userid": 3,
+			"street": "address user3",
+			"city": "city user3",
+			"zipcode": "zipcode user3",
+			"country": "country user3"
+		}
 	]
 }
+
